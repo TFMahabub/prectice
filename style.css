@@ -21,6 +21,9 @@
   font-size: 50px;
   color: #fff;
 }
+#top-section div h1 span{
+  color: #FB5B21;
+}
 #top-section div p{
   color: #fff;
   font-weight: 200;
@@ -32,7 +35,7 @@
   padding: 12px 12px;
   border-radius: 5px;
   color: #fff;
-  background-color: rgb(50, 46, 252);
+  border: 2px solid #FB5B21;
   display: inline-block;
   letter-spacing: 1px;
   text-decoration: none;
@@ -61,5 +64,7 @@
   margin: 10px 0;
 }
 .box-size p{
+  font-weight: 400;
   margin: 10px 0;
 }
+/* --------------------section-3-------------------- */
