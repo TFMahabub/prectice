@@ -39,6 +39,11 @@
   display: inline-block;
   letter-spacing: 1px;
   text-decoration: none;
+  transition: 0.3s;
+}
+#top-section div a:hover{
+  background-color: #FB5B21;
+  border: 2px solid #FB5B21;
 }
 /* --------------------section-2-------------------- */
 #section-2{
