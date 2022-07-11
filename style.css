@@ -24,7 +24,7 @@
 #top-section div h1 span{
   color: #FB5B21;
 }
-#top-section >div >p{
+#top-section div p{
   color: #fff;
   font-weight: 200;
   letter-spacing: 1px;
@@ -49,14 +49,14 @@
   font-size: 40px;
 }
 #section-2 .box{
-  margin: 80px 80Px;
+  margin: 50px 80Px;
   display: flex;
   justify-content: space-between;
 }
 #section-2 .box-size{
   text-align: left;
   border-radius: 10px;
-  padding: 15px 50px;
+  padding: 35px 50px;
   background-color: #FB5B21;
   margin: 0 10px;
 }
